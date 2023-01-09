@@ -1,1 +1,1 @@
-# My Drag and Drop Class Demo
+# My Drag and Drop Demo Class
